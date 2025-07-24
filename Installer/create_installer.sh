@@ -8,9 +8,9 @@ set -euo pipefail
 #   chmod +x create_installer.sh
 
 driverName="BlackHole"
-devTeamID="Q5C99V536K" # ⚠️ Replace this with your own developer team ID
+devTeamID="7WVF4AD6SP" # ⚠️ Replace this with your own developer team ID
 notarize=true # To skip notarization, set this to false
-notarizeProfile="notarize" # ⚠️ Replace this with your own notarytool keychain profile name
+notarizeProfile="Notarization" # ⚠️ Replace this with your own notarytool keychain profile name
 
 ############################################################################
 
