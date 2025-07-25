@@ -17,6 +17,7 @@
 		3D8966462849C318002AB3F0 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 03FDCADB233FAE0500101681 /* LICENSE */; };
 		3D8966472849C318002AB3F0 /* BlackHole.icns in Resources */ = {isa = PBXBuildFile; fileRef = 03FDCAD9233F235500101681 /* BlackHole.icns */; };
 		3D8966482849C318002AB3F0 /* CHANGELOG.md in Resources */ = {isa = PBXBuildFile; fileRef = 039FF2572341B6E800400D7A /* CHANGELOG.md */; };
+		802B2AC92E33802500107346 /* SpaceHub_Logo-v1.icns in Resources */ = {isa = PBXBuildFile; fileRef = 802B2AC82E33802500107346 /* SpaceHub_Logo-v1.icns */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +54,7 @@
 		3D89664D2849C318002AB3F0 /* BlackHole.driver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlackHole.driver; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D8966882849D45F002AB3F0 /* postinstall */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = postinstall; sourceTree = "<group>"; };
 		3D8966892849D45F002AB3F0 /* preinstall */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = preinstall; sourceTree = "<group>"; };
+		802B2AC82E33802500107346 /* SpaceHub_Logo-v1.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "SpaceHub_Logo-v1.icns"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				3D08380E284A7DE100C69403 /* BlackHole.plist */,
 				03FDCAD9233F235500101681 /* BlackHole.icns */,
+				802B2AC82E33802500107346 /* SpaceHub_Logo-v1.icns */,
 				2D616EF215B8C82500D598BD /* BlackHole.c */,
 			);
 			path = BlackHole;
@@ -233,6 +236,7 @@
 				3D8966462849C318002AB3F0 /* LICENSE in Resources */,
 				3D8966472849C318002AB3F0 /* BlackHole.icns in Resources */,
 				3D8966482849C318002AB3F0 /* CHANGELOG.md in Resources */,
+				802B2AC92E33802500107346 /* SpaceHub_Logo-v1.icns in Resources */,
 				3D083818284A7F1200C69403 /* VERSION in Resources */,
 				3D083819284A7F1500C69403 /* README.md in Resources */,
 			);
